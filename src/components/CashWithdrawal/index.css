@@ -1,0 +1,81 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #c4c4c4;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.card-container {
+  border-radius: 12px;
+  border-style: none;
+  background-color: #150b3e;
+  height: 400px;
+  width: 330px;
+  padding: 22px;
+}
+.profile-container {
+  display: flex;
+}
+.profile {
+  height: 70px;
+  width: 70px;
+  border-radius: 35px;
+  background-color: #c7d2fe;
+  margin-right: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.s-letter {
+  font-size: 27px;
+  color: #7c3aed;
+}
+.name {
+  font-size: 22px;
+  font-weight: 500px;
+  color: #d4d2db;
+}
+.balance-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.bal-text {
+  color: #585076;
+  font-size: 20px;
+}
+.result-amount {
+  font-weight: 600;
+  font-size: 24px;
+  color: #c4c4c4c4;
+  margin-bottom: 10px;
+}
+.in-rupee-container {
+  display: flex;
+  flex-direction: column;
+}
+.in-rupees {
+  color: #585076;
+  font-size: 12px;
+}
+.withdraw {
+  color: #c4c4c4c4;
+  font-size: 21px;
+  font-weight: 600;
+}
+.ul-heading {
+  color: #585076;
+  font-size: 18px;
+}
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin-left: 0px;
+}
+.amount-list-container {
+  list-style-type: none;
+}

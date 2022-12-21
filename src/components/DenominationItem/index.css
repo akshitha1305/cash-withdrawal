@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.value-container {
+  background-color: #382f5a;
+  border-radius: 5px;
+  border-color: #c4c4c4c4;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #c4c4c4;
+  font-weight: 600;
+  font-size: 18px;
+  width: 100px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;
+  cursor: pointer;
+  outline: none;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+}
